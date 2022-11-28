@@ -1,5 +1,4 @@
-#
-Dpectrum Google Play Console API Guide
+# Dpectrum Google Play Console API Guide
 
 
 
@@ -104,6 +103,36 @@ google play android developer api를 검색하여 추가합니다.
 
 
 ### 서비스 계정 생셩 및 연결.
+
+
+[Google Cloud](https://cloud.google.com/)에 접속하여 프로젝트에 들어갑니다.
+
+<br/>
+
+IAM 및 관리자 버튼을 눌러 페이지에 들어갑니다.
+
+![스크린샷 2022-11-28 시간: 19 08 27](https://user-images.githubusercontent.com/53536205/204251164-09c26858-be63-47e3-be34-371a05e69907.png)
+
+왼쪽 탭의 서비스 계정을 클릭합니다.
+
+
+![스크린샷 2022-11-28 시간: 19 10 49](https://user-images.githubusercontent.com/53536205/204251711-5ce66361-fd61-4967-90fd-3d9b1430e5e2.png)
+
+<br/>
+
+그 다음 상단의 **+ 서비스 계정 만들기**를 클릭합니다.
+
+<br/>
+
+![스크린샷 2022-11-28 시간: 19 15 27](https://user-images.githubusercontent.com/53536205/204252549-6f94e619-e063-4299-8fb2-1a970b00a1d3.png)
+
+<br/>
+
+![스크린샷 2022-11-28 시간: 19 20 21](https://user-images.githubusercontent.com/53536205/204253485-b5e29052-b437-47b4-92c0-16a22c6e0c4e.png)
+
+<br/>
+
+
 
 
 
