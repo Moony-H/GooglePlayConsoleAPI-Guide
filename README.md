@@ -1,4 +1,4 @@
-# Dpectrum Google Play Console API Guide
+# Google Play Console API Guide
 
 
 
